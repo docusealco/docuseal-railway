@@ -1,32 +1,30 @@
 # DocuSeal Railway
 
-A self-hosted version of [DocuSeal](https://www.docuseal.co/) is implemented on the Railway platform.
+A self-hosted version of [DocuSeal](https://www.docuseal.com/) is implemented on the Railway platform.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/IGoDnc?referralCode=ruU7JR)
-
-## How to use
-
-- Click the Railway button 👆
-- Specify secret key (Use CMD + K -> "Generate secret" to generate 64 characters)
-- Deploy
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/IGoDnc?referralCode=ruU7JR)
 
 ## How to update?
 
 **Step 1: Open the dashboard and select the deployed DocuSeal instance**
 
-To get started, access the dashboard by visiting the following link: `https://railway.app/dashboard`
+To get started, access the dashboard by visiting the following link:
+
+```
+https://railway.com/dashboard
+```
 
 **Step 2: Go to the Deployment tab**
 
-After accessing the dashboard, navigate to the "Deployment" tab.
+After accessing the dashboard, click on the DocuSeal project you created, and then select the `docuseal-railway` block.
 
-<img src="https://github.com/docusealco/docuseal/assets/1176367/3baee1d7-a5bc-4468-80e7-18874a109e1a" width="600">
+<img src="https://github.com/user-attachments/assets/bfb23e09-a1d5-475e-b2a3-135728148c8e" width="600">
 
 **Step 3: Select "Redeploy" from the last active commit drop-down menu**
 
 Once you are in the "Deployment" tab, locate the last active commit drop-down menu. Click on it and choose the option labeled "Redeploy."
 
-<img src="https://github.com/docusealco/docuseal/assets/1176367/d84860b6-08c2-4b62-b3e9-565eb8fd0d42" width="600">
+<img src="https://github.com/user-attachments/assets/0fe41208-3c42-4c1f-84c5-81251025ba09" width="600">
 
 **Step 4: Wait for the deployment process to complete**
 
